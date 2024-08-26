@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Compiled libraries
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+bin/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+vendor/
